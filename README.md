@@ -26,7 +26,7 @@ This dataset combined two classes from the two as intercross datasets to form 20
 
 The details the number of images in each categories can be found in this Table:
 
-<img width="857" alt="Screen Shot 2024-06-21 at 3 58 49 PM" src="https://github.com/ShuaaS/Saudi-Coffee-Classification/assets/143282158/e39bdee1-045d-4c50-8de5-6afd69817824">
+<img width="757" alt="Screen Shot 2024-06-21 at 3 58 49 PM" src="https://github.com/ShuaaS/Saudi-Coffee-Classification/assets/143282158/e39bdee1-045d-4c50-8de5-6afd69817824">
 
 Sample of Saudi Coffee images with different types and roasting:
 
