@@ -1,4 +1,6 @@
-# Saudi-Coffee-Classification                          <img width="59" alt="Picture1" src="https://github.com/ShuaaS/Saudi-Coffee-Classification/assets/143282158/4e09f356-8a04-476f-8506-ff72c78ed436">
+<img width="100" alt="Picture1" src="https://github.com/ShuaaS/Saudi-Coffee-Classification/assets/143282158/4e09f356-8a04-476f-8506-ff72c78ed436"> 
+
+# Saudi-Coffee-Classification  
 
  Saudi Coffee Beans Classification (Type and roasting) based on squeeze vision transformer.   
 
