@@ -36,6 +36,8 @@ Sample of Saudi Coffee images with different types and roasting:
 
 # Download dataset:
 
+**Original without crop:**
+
 **SCTD** click here: https://drive.google.com/file/d/1I29CIBTl77BNZqeNEMskxuLDoaJSFpne/view?usp=sharing
 
 **SCRD** click here: https://drive.google.com/file/d/1HTyk-zRavcISvZVQLGhAWlOTDarKKGKT/view?usp=drive_link
