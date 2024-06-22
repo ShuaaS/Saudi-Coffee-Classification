@@ -6,7 +6,7 @@
 
 This repository contains the dataset alongside the codes written and implemented for the paper: 
 
-_**“TEQHWA: Saudi Coffee Beans Classification Mobile Application based on squeeze vision transformer, Haifa F. Alhasson and Shuaa S. Alharbi’’**_
+_**“TEQHWA: Saudi Coffee Beans Classification Mobile Application based on squeeze vision transformer, Haifa F. Alhasson and Shuaa S. Alharbi 2024’’**_
 
 
 # Dataset Distribution
