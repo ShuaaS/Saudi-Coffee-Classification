@@ -34,8 +34,18 @@ Sample of Saudi Coffee images with different types and roasting:
 
 <img width="642" alt="Screen Shot 2024-06-21 at 4 11 17 PM" src="https://github.com/ShuaaS/Saudi-Coffee-Classification/assets/143282158/55ad754d-51a7-497a-b56e-d14c6ff1eb21">
 
+# Download dataset:
+
+**SCTD** click here: https://drive.google.com/file/d/1I29CIBTl77BNZqeNEMskxuLDoaJSFpne/view?usp=sharing
+
+**SCRD** click here: https://drive.google.com/file/d/1HTyk-zRavcISvZVQLGhAWlOTDarKKGKT/view?usp=drive_link
+
+**SCTRD** click here: https://drive.google.com/file/d/1SFbBcjtcuqgHbQjeL2O_ULXbChz7LwXc/view?usp=drive_link
 __________________________________________________________________________________________
 
 If you find this code useful in your research and development, please reference this repository or the paper.
 
 This repositoty is under a GNU General Public License v2.0 (see included "LICENSE" file).
+
+saudi.coffee.project@gmail.com
+
