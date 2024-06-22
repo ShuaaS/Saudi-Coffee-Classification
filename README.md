@@ -32,7 +32,7 @@ The details the number of images in each categories can be found in this Table:
 
 Sample of Saudi Coffee images with different types and roasting:
 
-<img width="742" alt="Screen Shot 2024-06-21 at 4 11 17 PM" src="https://github.com/ShuaaS/Saudi-Coffee-Classification/assets/143282158/55ad754d-51a7-497a-b56e-d14c6ff1eb21">
+<img width="642" alt="Screen Shot 2024-06-21 at 4 11 17 PM" src="https://github.com/ShuaaS/Saudi-Coffee-Classification/assets/143282158/55ad754d-51a7-497a-b56e-d14c6ff1eb21">
 
 __________________________________________________________________________________________
 
