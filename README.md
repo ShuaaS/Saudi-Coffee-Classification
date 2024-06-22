@@ -45,7 +45,7 @@ Sample of Saudi Coffee images with different types and roasting:
 **SCTRD** click here: https://drive.google.com/file/d/1SFbBcjtcuqgHbQjeL2O_ULXbChz7LwXc/view?usp=drive_link
 __________________________________________________________________________________________
 
-If you find this code useful in your research and development, please reference this repository or the paper.
+If you find this code useful in your research and development, please reference this repository or/ and the paper.
 
 This repositoty is under a GNU General Public License v2.0 (see included "LICENSE" file).
 
