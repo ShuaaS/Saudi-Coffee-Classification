@@ -44,6 +44,7 @@ Sample of Saudi Coffee images with different types and roasting:
 
 **SCTRD** click here: https://drive.google.com/file/d/1SFbBcjtcuqgHbQjeL2O_ULXbChz7LwXc/view?usp=drive_link
 __________________________________________________________________________________________
+This research was funded by the “Saudi coffee grants” program offered by the Saudi Ministry of Culture. All opinions expressed herein belong to the researchers and do not necessarily reflect those of the Ministry of Culture.
 
 If you find this code useful in your research and development, please reference this repository and the paper.
 
