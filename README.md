@@ -18,10 +18,10 @@ to be classified as follows:
 This dataset's primary goal is to differentiate between several Saudi coffee genotypes, which are related to Arabic coffee genotypes and differ in size and morphology. Five classes of Saudi coffee genotype beans (Harari, Khawlani, Nabari, Laqamti, and Wild (Briah)) are included in this dataset. In order to assess and manage the quality of the traded coffee beans, this dataset may be used to categorize beans according to variations in the shape characteristics of the genotypes of the beans. 
 
 
-**2- Saudi Coffee Roasting Dataset (SCRD)**
+**2- Saudi Coffee Roasting Dataset (SCRD):**
 This dataset's primary goal is to differentiate between various roast levels of Saudi coffee using samples taken from the country's coffee market. As we discover, there are three primary roasting levels in addition to the bean's raw form. The color of the beans makes them distinctive. Four classes of Saudi coffee genotype beans (Raw, Degree 1, Degree 2, and Degree 3) are included in this dataset.
 
-**3- Saudi Coffee Types and Roasting Dataset (SCTRD)**
+**3- Saudi Coffee Types and Roasting Dataset (SCTRD):**
 Two classes from the two intercross datasets were joined in this dataset to create 20 classes.
 
 The details the number of images in each categories can be found in this Table:
