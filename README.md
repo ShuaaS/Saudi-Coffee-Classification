@@ -6,7 +6,7 @@
 
 This repository contains the dataset alongside the codes written and implemented for the paper: 
 
-_**“TEQHWA: Saudi Coffee Beans Classification Mobile Application based on squeeze vision transformer, Haifa F. Alhasson and Shuaa S. Alharbi 2024’’**_
+_**“Classification of Saudi Coffee Types and Roasting Levels Using Squeeze Vision Transformer, Haifa F. Alhasson and Shuaa S. Alharbi 2024’’**_
 
 
 # Dataset Distribution
@@ -50,5 +50,5 @@ If you find this code useful in your research and development, please reference 
 
 This repositoty is under a GNU General Public License v2.0 (see included "LICENSE" file).
 
-saudi.coffee.project@gmail.com
+For any inquiry, please contact us via email: saudi.coffee.project@gmail.com
 
