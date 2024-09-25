@@ -24,11 +24,10 @@ This dataset's primary goal is to differentiate between various roast levels of 
 **3- Saudi Coffee Types and Roasting Dataset (SCTRD):**
 Two classes from the two intercross datasets were joined in this dataset to create 20 classes.
 
-The details the number of images in each categories can be found in this Table:
-
+This Table provides information on the quantity of photos in each category:
 <img width="657" alt="Screen Shot 2024-06-21 at 3 58 49 PM" src="https://github.com/ShuaaS/Saudi-Coffee-Classification/assets/143282158/e39bdee1-045d-4c50-8de5-6afd69817824">
 
-Sample of Saudi Coffee images with different types and roasting:
+An example of several types and roastings of Saudi coffee images:
 
 <img width="642" alt="Screen Shot 2024-06-21 at 4 11 17 PM" src="https://github.com/ShuaaS/Saudi-Coffee-Classification/assets/143282158/55ad754d-51a7-497a-b56e-d14c6ff1eb21">
 
