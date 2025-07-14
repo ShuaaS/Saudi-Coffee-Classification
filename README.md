@@ -29,9 +29,11 @@ Two classes from the two intercross datasets were joined in this dataset to crea
 
 
 ## An example of several types and roastings of Saudi coffee images:
-
-<img width="642" alt="Screen Shot 2024-06-21 at 4 11 17 PM" src="https://github.com/ShuaaS/Saudi-Coffee-Classification/assets/143282158/55ad754d-51a7-497a-b56e-d14c6ff1eb21">
-
+<div align="center">
+  <figure style="text-align: center; margin: 0;">
+   <img width="80%" alt="Screen Shot 2024-06-21 at 4 11 17 PM" src="https://github.com/ShuaaS/Saudi-Coffee-Classification/assets/143282158/55ad754d-51a7-497a-b56e-d14c6ff1eb21">
+  </figure>
+</div>
 
 ## This Table provides information on the quantity of photos in each category:
 
