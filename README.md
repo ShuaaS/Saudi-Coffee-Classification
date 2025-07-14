@@ -1,4 +1,7 @@
 <img width="100" alt="Picture1" src="https://github.com/ShuaaS/Saudi-Coffee-Classification/assets/143282158/4e09f356-8a04-476f-8506-ff72c78ed436"> 
+<img width="215" height="79" alt="QU" src="https://github.com/user-attachments/assets/9754b402-e21d-4da5-9b2d-33e3d2e88e6f" />
+<img width="217" height="118" alt="Ed" src="https://github.com/user-attachments/assets/b8ddeedd-be8f-4e9b-aece-85826147cb52" />
+
 
 # Saudi-Coffee-Classification  
 
@@ -45,7 +48,11 @@ This research was funded by the “Saudi coffee grants” program offered by the
 
 If you find this code useful in your research and development, please reference this repository and the paper.
 
-This repositoty is under a GNU General Public License v2.0 (see included "LICENSE" file).
+# Reference:
+Alhasson, Haifa F., and Shuaa S. Alharbi. "Classification of Saudi Coffee beans using a mobile application leveraging squeeze vision transformer technology." Neural Computing and Applications (2025): 1-21.
 
+This research was conducted collaboratively by two authors, representing the Department of Information Technology, College of Computer, Qassim University, and the Ministry of Culture.
+
+This repositoty is under a GNU General Public License v2.0 (see included "LICENSE" file).
 For any inquiry, please contact us via email: saudi.coffee.project@gmail.com
 
