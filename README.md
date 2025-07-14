@@ -27,12 +27,76 @@ This dataset's primary goal is to differentiate between various roast levels of 
 **3- Saudi Coffee Types and Roasting Dataset (SCTRD):**
 Two classes from the two intercross datasets were joined in this dataset to create 20 classes.
 
-This Table provides information on the quantity of photos in each category:
-<img width="657" alt="Screen Shot 2024-06-21 at 3 58 49 PM" src="https://github.com/ShuaaS/Saudi-Coffee-Classification/assets/143282158/e39bdee1-045d-4c50-8de5-6afd69817824">
 
-An example of several types and roastings of Saudi coffee images:
+## An example of several types and roastings of Saudi coffee images:
 
 <img width="642" alt="Screen Shot 2024-06-21 at 4 11 17 PM" src="https://github.com/ShuaaS/Saudi-Coffee-Classification/assets/143282158/55ad754d-51a7-497a-b56e-d14c6ff1eb21">
+
+
+## This Table provides information on the quantity of photos in each category:
+
+<table>
+  <thead>
+    <tr>
+      <th>Type of Coffee</th>
+      <th>Raw</th>
+      <th>Degree 1</th>
+      <th>Degree 2</th>
+      <th>Degree 3</th>
+      <th>Total Num of Images</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Harari</td>
+      <td>621</td>
+      <td>600</td>
+      <td>546</td>
+      <td>762</td>
+      <td>2529</td>
+    </tr>
+    <tr>
+      <td>Bariah</td>
+      <td>810</td>
+      <td>678</td>
+      <td>810</td>
+      <td>604</td>
+      <td>2902</td>
+    </tr>
+    <tr>
+      <td>Khowlani</td>
+      <td>408</td>
+      <td>702</td>
+      <td>588</td>
+      <td>648</td>
+      <td>2346</td>
+    </tr>
+    <tr>
+      <td>Legamti</td>
+      <td>522</td>
+      <td>438</td>
+      <td>491</td>
+      <td>564</td>
+      <td>2015</td>
+    </tr>
+    <tr>
+      <td>Nabari</td>
+      <td>556</td>
+      <td>660</td>
+      <td>696</td>
+      <td>606</td>
+      <td>2518</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <th colspan="5">Total images in all categories</th>
+      <th>12310</th>
+    </tr>
+  </tfoot>
+</table>
+
+---
 
 # Download dataset:
 
